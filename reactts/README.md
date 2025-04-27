@@ -52,9 +52,3 @@ export default tseslint.config({
   },
 })
 ```
-
-## Launch the app
-- dir/ls into working project directory
-```js
-npm create vite@latest my-app -- --template react
-```
