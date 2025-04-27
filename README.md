@@ -60,3 +60,11 @@ npm create vite@latest my-app -- --template react
 npm install
 npm run dev
 ```
+or
+```js
+npm install --save-dev parcel
+```
+or
+```js
+npx create-rsbuild --template react
+```
